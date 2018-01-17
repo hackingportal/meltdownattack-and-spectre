@@ -1,9 +1,12 @@
 # meltdownattack-and-spectre
 
 # Blog
-https://meltdownattack.com/ 
+https://meltdownattack.com/
+
 https://www.trustwave.com/Resources/SpiderLabs-Blog/Overview-of-Meltdown-and-Spectre/
+
 https://www.schneier.com/blog/archives/2018/01/spectre_and_mel.html 
+
 https://blog.rapid7.com/2018/01/04/meltdown-and-spectre-what-you-need-to-know-cve-2017-5715-cve-2017-5753-cve-2017-5754/ 
 https://www.tenable.com/blog/the-first-major-security-logos-of-2018-spectre-and-meltdown-vulnerabilities 
 https://andrumyers.wordpress.com/2018/01/17/meltdown-spectre-and-how-hardware-can-be-correct-but-insecure/ 

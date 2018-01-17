@@ -21,29 +21,26 @@ http://www.businessinsider.com/intel-chip-bug-meltdown-and-spectre-explained-201
 https://arstechnica.com/gadgets/2018/01/meltdown-and-spectre-every-modern-processor-has-unfixable-security-flaws/
 http://securityaffairs.co/wordpress/67394/hacking/meltdown-spectre-attacks.html
 
-# POC
-https://github.com/GitMirar/meltdown-poc 
-
 # Github
-https://github.com/Viralmaniar/In-Spectre-Meltdown
-https://github.com/lsds/spectre-attack-sgx
-https://github.com/Pl4gue/spectre-attack-demo
-https://github.com/speed47/spectre-meltdown-checker
-https://github.com/raphaelsc/Am-I-affected-by-Meltdown
-https://github.com/ionescu007/SpecuCheck
-https://github.com/cloudsriseup/Meltdown-Proof-of-Concept
-https://github.com/szilard/GBM-meltdown
-https://github.com/willyb321/meltdown-spectre-poc-grabber
-https://github.com/gonoph/ansible-meltdown-spectre
-https://github.com/stormctf/meltdown-poc
-https://github.com/Anakin-Skywalker/Spectre-MeltDown-
-https://github.com/marcan/speculation-bugs
-https://github.com/gkaindl/meltdown-poc
-https://github.com/hannob/meltdownspectre-patches
-https://github.com/Eugnis/spectre-attack
-https://github.com/GitMirar/meltdown-poc
-https://github.com/IAIK/meltdown
-https://github.com/jarmouz/spectre_meltdown
+https://github.com/Viralmaniar/In-Spectre-Meltdown 
+https://github.com/lsds/spectre-attack-sgx 
+https://github.com/Pl4gue/spectre-attack-demo 
+https://github.com/speed47/spectre-meltdown-checker 
+https://github.com/raphaelsc/Am-I-affected-by-Meltdown 
+https://github.com/ionescu007/SpecuCheck 
+https://github.com/cloudsriseup/Meltdown-Proof-of-Concept 
+https://github.com/szilard/GBM-meltdown 
+https://github.com/willyb321/meltdown-spectre-poc-grabber 
+https://github.com/gonoph/ansible-meltdown-spectre 
+https://github.com/stormctf/meltdown-poc 
+https://github.com/Anakin-Skywalker/Spectre-MeltDown- 
+https://github.com/marcan/speculation-bugs 
+https://github.com/gkaindl/meltdown-poc 
+https://github.com/hannob/meltdownspectre-patches 
+https://github.com/Eugnis/spectre-attack 
+https://github.com/GitMirar/meltdown-poc 
+https://github.com/IAIK/meltdown 
+https://github.com/jarmouz/spectre_meltdown 
 
 
 

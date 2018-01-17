@@ -89,7 +89,6 @@ https://research.checkpoint.com/detection-meltdown-spectre-vulnerabilities-using
 # Protect
 https://thehackernews.com/2018/01/meltdown-spectre-patches.html
 
-# Patches
 https://redmondmag.com/articles/2018/01/08/apple-releases-meltdown-and-spectre-patches.aspx
 
 # CMS
